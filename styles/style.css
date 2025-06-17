@@ -24,8 +24,8 @@ section#telefone{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 625px;
-    width: 310px;
+    height: 880px;
+    width: 690px;
     /*background-color: brown;*/
-    background:  url(../imagens/frame-iphone.png) no-repeat center center;
+    background: /*chocolate */  url(../imagens/galaxy-s21-front-home-screen-scaled-900px.png) no-repeat center center;
 }
