@@ -12,6 +12,7 @@ html, body {
 body{
     background-image: url(../imagens/fundo-madeira.jpg);
     background-size: cover;
+    background-attachment: fixed;
     
 }
 main{
@@ -21,11 +22,11 @@ main{
 }
 section#telefone{
     position: absolute;
-    top: 50%;
+    top: 67.6%;
     left: 50%;
     transform: translate(-50%, -50%);
     height: 880px;
     width: 690px;
     /*background-color: brown;*/
-    background: /*chocolate */  url(../imagens/galaxy-s21-front-home-screen-scaled-900px.png) no-repeat center center;
+    background: /*chocolate*/   url(../imagens/galaxy-s21-front-home-screen-scaled-900px.png) no-repeat center center;
 }
