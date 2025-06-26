@@ -17,11 +17,11 @@
             display: block;
             text-align: center;
             font-size: 1.5em;
-            background-color: crimson;
+            background-color: #020D21;
             padding: 10px;
             color: white;
             text-decoration: none;
         }
         a:hover {
-            background-color: red;
+            background-color: #0077C7;
         }
